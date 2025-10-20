@@ -1,3 +1,5 @@
+Just share the user service class to hit the back4app authtentication system. you'll find the functions to log in, sign up and reset password.
+
 <img src="https://github.com/user-attachments/assets/b92f2119-1815-4f7d-a403-9d69757c8e70" alt="Image A thumbnail" width="160" />
 
 <img src="https://github.com/user-attachments/assets/491dbd2b-2556-4bbe-92e1-9c7bf0cde264" alt="Image B thumbnail" width="160" />
